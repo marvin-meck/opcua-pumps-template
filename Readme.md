@@ -1,4 +1,4 @@
-# OPCUA-PUMPS-Template
+# opcua-pumps-template
 
 Template for compiling a OPC UA Server using the [`open62541`](https://www.open62541.org/) stack. 
 A minimal client is also provided for debugging purposes. 
